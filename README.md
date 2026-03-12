@@ -10,3 +10,5 @@ test1
 Игнорируются файлы конфигурации CLI: 
 .terraformrc
 terraform.rc
+
+Изменения 12.03
